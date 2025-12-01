@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background: #0f1115;
+    font-family: Poppins, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.login-box {
+    background: #161a25;
+    padding: 28px;
+    border-radius: 14px;
+    width: 320px;
+    box-shadow: 0 0 12px rgba(255,255,255,0.05);
+}
+
+h2 {
+    text-align: center;
+    color: #ff89b5; /* Periksa kontras */
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #333;
+    margin-bottom: 12px;
+    background: #0f1115;
+    color: white;
+}
+
+button {
+    width: 100%;
